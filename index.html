@@ -1,32 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Project 3 Group 7</title>
 
-  <!-- D3 -->
-  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <head>
+    <meta charset="utf-8">
+    <meta name  ="viewport" content="width=device-width,initial-scale=1.0">
+    <title>CO2 Emissions Dashboard</title>
 
-  <!-- Leaflet CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-  crossorigin=""/>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin="" />
 
-  <!-- Leaflet JavaScript code -->
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-  crossorigin=""></script>
+    <!-- Leaflet JavaScript code -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""></script>
 
-  <!-- Our CSS -->
-  <link rel="stylesheet" type="text/css" href="static/css/style.css">
-</head>
-<body>
+    <!-- D3 library -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
 
-  <!-- The div that holds our map -->
-  <div id="map-id"></div>
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
 
-  <!-- Our JavaScript files -->
-  <script type="text/javascript" src="static/js/logic.js"></script>
-  <script type="text/javascript" src="static/js/data.js"></script>
-</body>
+  <body>
+    
+    <h1>Carbon Emissions Dashboard</h1></g1>
+
+    <!-- HTML Dropdown Menu-->
+
+    <div id="dropdown-container">
+      <p>Select a year:</p>
+      <select id="dropdown">
+        <option value="2021">Year: 2021</option>
+        <option value="2020">Year: 2020 (COVID-19 Pandemic)</option>
+        <option value="2015">Year: 2015 (Paris Agreement)</option>
+        <option value="2010">Year: 2010</option>
+        <option value="2005">Year: 2005 (Kyoto Protocol)</option>
+        <option value="2000">Year: 2000</option>
+        <option value="1992">Year: 1992 (UNFCCC)</option>
+        <option value="1990">Year: 1990</option>
+        <option value="1987">Year: 1987 (Montreal Protocol)</option>
+        <option value="1980">Year: 1980</option>
+        <option value="1970">Year: 1970</option>
+        <option value="1960">Year: 1960</option>
+        <option value="1950">Year: 1950</option>
+        <option value="1940">Year: 1940</option>
+        <option value="1930">Year: 1930</option>
+        <option value="1920">Year: 1920</option>
+        <option value="1910">Year: 1910</option>
+        <option value="1900">Year: 1900</option>
+      </select>
+    </div>
+
+
+    <!-- The div where we'll insert our map -->
+    <div id="map"></div>
+
+
+
+
+
+
+    <!-- JavaScript files -->
+    <script type="text/javascript" src="country_emission_totals.js"></script>
+    <script type="text/javascript" src="logic.js"></script>
+
+  </body>
+
 </html>
