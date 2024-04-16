@@ -29,4 +29,6 @@ This repository explores CO2 emissions and their impact on global climate change
 
 **Our World In Data:** https://ourworldindata.org/co2-emissions
 
+**Country Boundaries GeoJSON file:** https://github.com/johan/world.geo.json/blob/master/countries.geo.json
+
 We invite you to explore our collection and gain a deeper understanding of CO2 emissions and their role in climate change.
