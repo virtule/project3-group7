@@ -3,7 +3,7 @@
 
 [Ashley Anderson](https://github.com/AshleyKAnderson)
 [Nora Chian]
-Dan Kramer
+[Dan Kramer](https://github.com/d6kramer)
 Erik Malrait
 
 ## Project Description
