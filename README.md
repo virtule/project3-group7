@@ -21,7 +21,8 @@ This repository explores CO2 emissions and their impact on global climate change
 
 **Data Sources:** We provide access to the underlying data used in our visualizations, allowing for further exploration.
 
-**Kaggle:** https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022
+**Kaggle:** https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022 <br>
+
 **Our World In Data:** https://ourworldindata.org/co2-emissions
 
 We invite you to explore our collection and gain a deeper understanding of CO2 emissions and their role in climate change.
