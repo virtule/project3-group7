@@ -1,7 +1,6 @@
 ## CO2 Emissions on Our World in Data
 
-
-
+_Insert Dashboard Screenshot_
 
 ### Collaborators:
 
