@@ -13,6 +13,7 @@ _Insert Dashboard Screenshot_
 * Python
 * JavaScript
 * Plotly
+* HTML
   
 ## Project Description
 This repository explores CO2 emissions and their impact on global climate change. Here's a quick look at what you'll find:
