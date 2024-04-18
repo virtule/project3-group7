@@ -19,7 +19,7 @@ function uniqueList (arr, key) {
    return list
 };
 
-d3.csv("full_data.csv").then((response) => {
+d3.csv("csv_sources/full_data.csv").then((response) => {
    // get data and set up filling years, countries, and pollution by type data
    var csvImport = response;
   
