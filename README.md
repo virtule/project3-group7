@@ -11,12 +11,14 @@
 * [Erik Malrait](https://github.com/virtule)<br>
   
 ## Technology Used:
-* Python
+* Python            
 * JavaScript
 * Plotly
 * HTML
 * CSS
 * D3.js
+* Leaflet
+* Bootstrap
   
 ## Project Description
 This repository explores CO2 emissions and their impact on global climate change. Here's a quick look at what you'll find:
