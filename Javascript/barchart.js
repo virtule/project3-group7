@@ -2,8 +2,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // set variables that will be called during the rest of code
     var countrySelector = d3.select("#countryDropdown");
     var yearSelector = d3.select("#yearDropdown");
-    var demo = d3.select("#sample-metadata");
-    var jsonImport;
     var yearClicked;
     var countryClicked;
     var globalData = [];
@@ -95,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
         var barData = [trace1];
 
         var barLayout = {
-            title: 'Pollution Type',
+            title: 'CO2 Emissions by Source',
             yaxis: {
                 title: "CO2 Emissions in Megatonnes"
             },
