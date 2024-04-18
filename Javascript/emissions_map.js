@@ -3,8 +3,8 @@
 let myMap = L.map('map', {
     center: [37.9755648, 23.7348324],
     zoom: 2,
-    height: 1280,
-    width: 720
+    height: 1100,
+    width: 520
 });
 
 let tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -194,7 +194,7 @@ legend.onAdd = function (map) {
     var div = L.DomUtil.create('div', 'info legend'),
         grades = [1, 5, 10, 20, 40, 60, 80, 100, 150, 200, 300, 400, 500, 700, 850, 1000, 1500, 2000, 3500, 5000]
         labels = [],
-        div.innerHTML += "<h3>Total Emissions (in million tons)</h3>"
+        div.innerHTML += "<h5><strong>Total Emissions (in million tons)</strong></h5>"
 
     // loop through our density intervals and generate a label with a colored square for each interval
     for (var i = 0; i < grades.length; i++) {

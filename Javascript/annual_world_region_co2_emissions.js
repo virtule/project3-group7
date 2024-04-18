@@ -22,8 +22,8 @@ fetch("./Javascript/annual_world_region_co2_filtered.json")
                 },
                 title: 'Interactive Regional Annual CO₂ Emissions',
                 autosize: false,
-                width: 900,
-                height: 600,
+                width: 650,
+                height: 450,
                 annotations: [{
                     x: 2020,
                     y: Math.max(...emissions.filter((_, i) => years[i] === "2020")),

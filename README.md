@@ -34,17 +34,9 @@ This repository explores CO2 emissions and their impact on global climate change
 
 **Cumulative Emissions:** We examine historical responsibility for climate change by looking at each country's cumulative CO2 emissions since 1751. The US is the largest contributor, followed by the EU and China.<br>
 
-**Ethical Considerations**
-
-One of the main considerations of our project is to ensure the data is accurate and reliable. This is especially important, as we do not want the data presented to unduly influence the user, or manipulate them toward a specific outcome. Luckily, the original source for our data is compiled from research by the Glocal Carbon Project (GCP - https://www.globalcarbonproject.org/index.htm), which is a repesected and well-known scientific organization that is a reasearch partner of the World Climate Research Programme. Additionally, the authors utilizing the GCP dataset go to great lengths publishing annual documents explaining changes and updates to the data, including disclosing and innaccuracies that were found, and the steps made to fix them. This open publishing format and pariticpation with the EU Open Repository Program gave us confidence that the data we are accessing was both complied in good faith, and adjusted when necessary.
-
-For the visualizations, our goal is to pass the data along via different visual elements simply for what it is - without adding any bias into the coding of the elements. To that end, we tried to keep as much data within the visualizations as possible, or picked neutral points (decades) to illustrate the steady growth in emissions. The selection of years with major climate change talks or agreements, as well as COVID-19, is meant to simultaenously illustrate the progress made from each of those events, as well as to highlight the true difficulty of reversing a trend that has been moving increasingly in one direction (upward) for over 100 years. 
-
 **Data Sources:** We provide access to the underlying data used in our visualizations, allowing for further exploration.
 
 **Kaggle:** https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022 <br>
-
-**Original Authors of Dataset** Andrew, R. M., & Peters, G. P. (2022). The Global Carbon Project's fossil CO2 emissions dataset (2022v27) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7215364
 
 **Our World In Data:** https://ourworldindata.org/co2-emissions
 
