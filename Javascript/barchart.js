@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var globalData = [];
 
     // set function that will be used to generate country/year lists
+    // justin from tutoring helped me to fix the function code
     function uniqueList(arr, key) {
         var list = [];
         arr.forEach(obj => {
