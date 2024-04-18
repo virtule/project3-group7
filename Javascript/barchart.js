@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
     };
 
     // read in data using d3
-    d3.csv("../csv_sources/full_data.csv").then((response) => {
+    d3.csv("./csv_sources/full_data.csv").then((response) => {
         // get data and set up filling years, countries
         var csvImport = response;
         globalData.push(response);
