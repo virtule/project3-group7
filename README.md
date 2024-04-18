@@ -5,10 +5,15 @@ _Insert Dashboard Screenshot_
 ### Collaborators:
 
 * [Ashley Anderson](https://github.com/AshleyKAnderson) <br>
-* Nora Chian<br>
+* [Nora Chian](https://github.com/ndchian)<br>
 * [Dan Kramer](https://github.com/d6kramer)<br>
-* Erik Malrait
-
+* Erik Malrait<br>
+  
+## Technology Used:
+* Python
+* JavaScript
+* Plotly
+  
 ## Project Description
 This repository explores CO2 emissions and their impact on global climate change. Here's a quick look at what you'll find:
 
