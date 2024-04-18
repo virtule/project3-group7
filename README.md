@@ -38,4 +38,8 @@ This repository explores CO2 emissions and their impact on global climate change
 
 **Country Boundaries GeoJSON file:** https://github.com/johan/world.geo.json/blob/master/countries.geo.json
 
+**Choropleth Interactive Map Tutorial:** https://leafletjs.com/examples/choropleth/
+
+**[Chat GPT](https://chat.openai.com/)** 
+
 We invite you to explore our collection and gain a deeper understanding of CO2 emissions and their role in climate change.
