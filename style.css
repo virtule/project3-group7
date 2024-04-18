@@ -1,32 +1,52 @@
 body {
+  background-color: #dddddd;
   padding: 0;
   margin: 0;
 }
 
 #map {
-  width: 1280px;
-  height: 720px;
+  width: 1100px;
+  height: 520px;
+  margin-left: 35px;
 }
 
-
-h1 {
-  text-align: center;
+.jumbotron {
+  background-color: lightskyblue;
+  color: black;
 }
 
-#dropdown-container {
-  width: 250px;
+.dropdowns {
+  padding-bottom: 10px;
+}
+
+.dropdownYear {
+  width: fit-content;
+  padding: 15px;
+  border: 2px solid #6b6a6d;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  margin-right: 100px;
+  margin-left: 100px;
+  background-color: lightskyblue;
+}
+
+.dropdownCountry {
+  width: 600px;
   padding: 10px;
-  background-color: #eeeed8;
-  border: 1px solid #6b6a6d;
+  border: 2px solid #6b6a6d;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  background-color: lightskyblue;
 }
 
 .info {
-  padding: 6px 8px;
+  padding: 10px;
   font: 14px/16px Arial, Helvetica, sans-serif;
   background: white;
   background: rgba(255,255,255,0.8);
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
-  border-radius: 5px;
+  border: 2px solid #6b6a6d;
+  border-radius: 15px;
 }
 .info h4 {
   margin: 0 0 5px;
