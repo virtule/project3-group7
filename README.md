@@ -24,7 +24,7 @@ This repository explores CO2 emissions and their impact on global climate change
 
 **Global Emissions Heatmap:** Explore historical trends in global CO2 emissions with interactive charts. See how emissions have risen dramatically since the Industrial Revolution. To interact with the heat map, choose a year from the dropdown selection menu above it. You can pick any decade from 1900 -2020, plus some “event years,” such as when the Kyoto Protocol or Paris Agreement were signed. The map will update each country’s total emissions for that year, shaded in a color corresponding to the legend in the bottom left corner. You can see a country’s specific total emissions for the selected year simply by scrolling over it.<br>
 
-**Regional Emissions Scrolling Line Chart:** Discover the breakdown of global CO2 emissions by region. While Europe and the US dominated historically, Asia, particularly China, now leads emissions.<br>
+**Regional Emissions Scrolling Line Chart:** Discover the breakdown of global CO2 emissions by region. While Europe and the US dominated historically, Asia, particularly China, now leads emissions. Use the scroll bar to investigate changes in CO2 emissions throughout the years.<br>
 
 **Per Capita Emissions:** We analyze per capita CO2 emissions, revealing significant inequalities across countries. Developed nations often have higher emissions per person.<br>
 
