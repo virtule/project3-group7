@@ -7,7 +7,7 @@ _Insert Dashboard Screenshot_
 * [Ashley Anderson](https://github.com/AshleyKAnderson) <br>
 * [Nora Chian](https://github.com/ndchian)<br>
 * [Dan Kramer](https://github.com/d6kramer)<br>
-* Erik Malrait<br>
+* [Erik Malrait](https://github.com/virtule)<br>
   
 ## Technology Used:
 * Python
