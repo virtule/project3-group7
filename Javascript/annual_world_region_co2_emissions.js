@@ -1,5 +1,5 @@
 // Fetch the JSON data
-fetch("annual_world_region_co2_filtered.json")
+fetch("Javascript/annual_world_region_co2_filtered.json")
     .then(response => response.json()) // Parse the response as JSON
     .then(data => {
         // Create arrays to store data
