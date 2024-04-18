@@ -1,6 +1,7 @@
 ## CO2 Emissions on Our World in Data
 
-_Insert Dashboard Screenshot_
+![Screenshot 2024-04-18 at 5 48 44 PM](https://github.com/virtule/project3-group7/assets/151413928/73dfbe2a-1dd2-4e24-a6ea-1736a55b0572)
+
 
 ### Collaborators:
 
