@@ -34,7 +34,9 @@ This repository explores CO2 emissions and their impact on global climate change
 
 **Cumulative Emissions:** We examine historical responsibility for climate change by looking at each country's cumulative CO2 emissions since 1751. The US is the largest contributor, followed by the EU and China.<br>
 
-**Data Sources:** We provide access to the underlying data used in our visualizations, allowing for further exploration.
+## Data Sources: 
+
+**Below is access to the underlying data used in our visualizations, allowing for further exploration**
 
 **Kaggle:** https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022 <br>
 
