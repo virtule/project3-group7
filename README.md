@@ -19,9 +19,9 @@ This repository explores CO2 emissions and their impact on global climate change
 
 **Metrics:** We delve into various metrics for comparing CO2 emissions - annual emissions by country, per capita emissions, historical contributions, and trade-adjusted emissions. Each metric tells a different story.
 
-**Global Trends:** Explore historical trends in global CO2 emissions with interactive charts. See how emissions have risen dramatically since the Industrial Revolution.<br>
+**Global Emissions Heatmap:** Explore historical trends in global CO2 emissions with interactive charts. See how emissions have risen dramatically since the Industrial Revolution.<br>
 
-**Regional Emissions:** Discover the breakdown of global CO2 emissions by region. While Europe and the US dominated historically, Asia, particularly China, now leads emissions.<br>
+**Regional Emissions Scrolling Line Chart:** Discover the breakdown of global CO2 emissions by region. While Europe and the US dominated historically, Asia, particularly China, now leads emissions.<br>
 
 **Per Capita Emissions:** We analyze per capita CO2 emissions, revealing significant inequalities across countries. Developed nations often have higher emissions per person.<br>
 
