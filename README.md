@@ -19,6 +19,7 @@
 * D3.js
 * Leaflet
 * Bootstrap
+* Materialize
   
 ## Project Description
 This repository explores CO2 emissions and their impact on global climate change. Here's a quick look at what you'll find:
@@ -42,6 +43,8 @@ This repository explores CO2 emissions and their impact on global climate change
 **Country Boundaries GeoJSON file:** https://github.com/johan/world.geo.json/blob/master/countries.geo.json
 
 **Choropleth Interactive Map Tutorial:** https://leafletjs.com/examples/choropleth/
+
+**Slidedeck link:** https://docs.google.com/presentation/d/1ET0Hy5NFrfdQ0jCMsRlrbnGEv66DLyTAdoma4d_qt8g/edit?usp=sharing 
 
 **[Chat GPT](https://chat.openai.com/)** 
 
