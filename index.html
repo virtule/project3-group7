@@ -22,6 +22,8 @@
     <!-- plotly code -->
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
+   
+
     <!-- Our CSS -->
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
@@ -61,6 +63,9 @@
     <div id="map"></div>
 
 
+    <div id="plot" style="width:900px;height:600px;"></div>
+
+
    <!-- code for the 2 bar chart drop downs -->
    <select name="country" id="countryDropdown"></select>
    <select name="year" id="yearDropdown"></select>
@@ -72,9 +77,10 @@
 
 
     <!-- JavaScript files -->
-    <script type="text/javascript" src="country_emission_totals.js"></script>
-    <script type="text/javascript" src="emissions_map.js"></script>
-    <script type="text/javascript" src="barchart.js"></script>
+    <script type="text/javascript" src="Javascript/country_emission_totals.js"></script>
+    <script type="text/javascript" src="Javascript/emissions_map.js"></script>
+    <script type="text/javascript" src="Javascript/barchart.js"></script>
+    <script src="Javascript/annual_world_region_co2_emissions.js" defer></script>
 
   </body>
 
