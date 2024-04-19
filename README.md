@@ -40,7 +40,7 @@ This repository explores CO2 emissions and their impact on global climate change
 
 ![Model](https://github.com/virtule/project3-group7/blob/main/Images/emissions_map_2010.png)
 
-**Yearly Emission Types by Country:** Here the user can investigate each country's specific emissions types for each year in the data set. By selecting a country and year, the bar chart populates with the corresponding data.<br>
+**Yearly Emission Types by Country:** Here the user can investigate each country's specific emissions types by source (coal, oil, gas, cement, flaring, or other) in megatonnes for the years 1900 - 2020, including the "event years" mentioned above. By selecting a country and year, the bar chart populates with the corresponding data and the user is able to view which source(s) contributed the most for a particular country's outputs in a given year as well as compare the same country decade over decade.<br>
 
 ![Model](https://github.com/virtule/project3-group7/blob/main/Images/Barchart%201.png)
 
