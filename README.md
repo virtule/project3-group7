@@ -52,6 +52,12 @@ This repository explores CO2 emissions and their impact on global climate change
 
 ![Model](https://github.com/virtule/project3-group7/blob/main/Images/Line%20Graph%202.png)
 
+## Ethical Considerations:
+
+One of the main considerations of our project is to ensure the data is accurate and reliable. This is especially important, as we do not want the data presented to unduly influence the user, or manipulate them toward a specific outcome. Luckily, the original source for our data is compiled from research by the Glocal Carbon Project (GCP - https://www.globalcarbonproject.org/index.htm), which is a repesected and well-known scientific organization that is a reasearch partner of the World Climate Research Programme. Additionally, the authors utilizing the GCP dataset go to great lengths publishing annual documents explaining changes and updates to the data, including disclosing and innaccuracies that were found, and the steps made to fix them. This open publishing format and pariticpation with the EU Open Repository Program gave us confidence that the data we are accessing was both complied in good faith, and adjusted when necessary.
+
+For the visualizations, our goal is to pass the data along via different visual elements simply for what it is - without adding any bias into the coding of the elements. To that end, we tried to keep as much data within the visualizations as possible, or picked neutral points (decades) to illustrate the steady growth in emissions. The selection of years with major climate change talks or agreements, as well as COVID-19, is meant to simultaenously illustrate the progress made from each of those events, as well as to highlight the true difficulty of reversing a trend that has been moving increasingly in one direction (upward) for over 100 years.
+
 ## Data Sources: 
 
 Below is access to the underlying data used in our visualizations, allowing for further exploration:
