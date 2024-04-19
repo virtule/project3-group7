@@ -64,8 +64,12 @@ Below is access to the underlying data used in our visualizations, allowing for 
 
 **Choropleth Interactive Map Tutorial:** https://leafletjs.com/examples/choropleth/
 
-**Slidedeck link:** https://docs.google.com/presentation/d/1ET0Hy5NFrfdQ0jCMsRlrbnGEv66DLyTAdoma4d_qt8g/edit?usp=sharing 
-
 **[Chat GPT](https://chat.openai.com/)** 
+
+## Presentation Tools:
+
+**Slidedeck:** https://docs.google.com/presentation/d/1ET0Hy5NFrfdQ0jCMsRlrbnGEv66DLyTAdoma4d_qt8g/edit?usp=sharing
+
+**Dashboard:** https://virtule.github.io/project3-group7/
 
 We invite you to explore our collection and gain a deeper understanding of CO2 emissions and their role in climate change.
